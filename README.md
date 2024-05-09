@@ -195,3 +195,6 @@ There is not much to separate the two genders, however, the male group has a few
 </div>
 
 Virtually every data scientist role requires proficiency in Python contrary to slightly less than half the roles in Data Analysis that require the programming language. Data Engineering roles sit in the middle of these two groups with 62 percent of them requiring Python knowledge.
+
+### Takeaways
+Despite this analysis shedding light on the market rates for data professionals in the country, the dataset is still limited in size especially when it comes to Data Scientists and Data Engineers. I am positive that with more data, we will see changes in average remuneration for these two roles 
